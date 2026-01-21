@@ -1,0 +1,4 @@
+# add basic dependencies for a FastAPI LLM service
+fastapi
+uvicorn
+pydantic
